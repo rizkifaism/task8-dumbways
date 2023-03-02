@@ -721,7 +721,9 @@ i,
   }
 
   .screen-testi .all-star {
+    display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
   }
 
   .screen-testi .all-star .btn-star {
