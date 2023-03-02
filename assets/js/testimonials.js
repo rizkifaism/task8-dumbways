@@ -65,31 +65,31 @@
 
 const testimonialData = [
   {
-    author: "Surya Elidanto",
+    author: "Rizki Fais",
     quote: "Keren banget jasanya!",
     image: "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     rating: 5,
   },
   {
-    author: "Surya Elz",
+    author: "Mubarok",
     quote: "Keren lah pokoknya!",
     image: "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     rating: 4,
   },
   {
-    author: "Surya Gans",
+    author: "Rifa",
     quote: "The best pelayanannya!",
     image: "https://images.unsplash.com/photo-1504593811423-6dd665756598?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     rating: 4,
   },
   {
-    author: "Suryaaaa",
+    author: "Putra Ku",
     quote: "Oke lah!",
     image: "https://images.unsplash.com/photo-1500048993953-d23a436266cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     rating: 3,
   },
   {
-    author: "Suryeah",
+    author: "Aji Kun",
     quote: "Apa apaan ini!",
     image: "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
     rating: 1,
